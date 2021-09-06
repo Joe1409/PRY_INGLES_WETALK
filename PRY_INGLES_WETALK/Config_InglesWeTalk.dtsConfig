@@ -1,0 +1,17 @@
+<?xml version="1.0"?><DTSConfiguration><DTSConfigurationHeading><DTSConfigurationFileInfo GeneratedBy="AzureAD\JosephyAvila" GeneratedFromPackageName="Package" GeneratedFromPackageID="{DE243540-66E1-447A-AB71-E39B35CC26A2}" GeneratedDate="6/09/2021 11:22:40"/></DTSConfigurationHeading>
+<Configuration ConfiguredType="Property" Path="\Package.Connections[Conn_FTP].Properties[ServerName]" ValueType="String"><ConfiguredValue>10.10.0.244</ConfiguredValue></Configuration>
+<Configuration ConfiguredType="Property" Path="\Package.Connections[Conn_FTP].Properties[ServerPassword]" ValueType="String"><ConfiguredValue>UpcCrm2018$#</ConfiguredValue></Configuration>
+<Configuration ConfiguredType="Property" Path="\Package.Connections[Conn_FTP].Properties[ServerPort]" ValueType="Int32"><ConfiguredValue>21</ConfiguredValue></Configuration>
+<Configuration ConfiguredType="Property" Path="\Package.Connections[Conn_FTP].Properties[ServerUserName]" ValueType="String"><ConfiguredValue>usrftpcrmavaya</ConfiguredValue></Configuration>
+<Configuration ConfiguredType="Property" Path="\Package.Connections[Conn_REPINTETL].Properties[InitialCatalog]" ValueType="String"><ConfiguredValue>REPINTETL</ConfiguredValue></Configuration>
+<Configuration ConfiguredType="Property" Path="\Package.Connections[Conn_REPINTETL].Properties[Password]" ValueType="String"><ConfiguredValue>CRM1ooY020#</ConfiguredValue></Configuration>
+<Configuration ConfiguredType="Property" Path="\Package.Connections[Conn_REPINTETL].Properties[ServerName]" ValueType="String"><ConfiguredValue>172.36.0.23</ConfiguredValue></Configuration>
+<Configuration ConfiguredType="Property" Path="\Package.Connections[Conn_REPINTETL].Properties[UserName]" ValueType="String"><ConfiguredValue>Isintcrmcom</ConfiguredValue></Configuration>
+<Configuration ConfiguredType="Property" Path="\Package.Connections[Log_Package_InglesWeTalk.log].Properties[ConnectionString]" ValueType="String"><ConfiguredValue>C:\DATOS\PRY_INGLES_WETALK\PRY_INGLES_WETALK\Logs\Log_Package_InglesWeTalk.log</ConfiguredValue></Configuration>
+<Configuration ConfiguredType="Property" Path="\Package.Variables[User::v_EmailPassword].Properties[Value]" ValueType="String"><ConfiguredValue>Pow3rB1%2021$#</ConfiguredValue></Configuration>
+<Configuration ConfiguredType="Property" Path="\Package.Variables[User::v_EmailPort].Properties[Value]" ValueType="String"><ConfiguredValue>25</ConfiguredValue></Configuration>
+<Configuration ConfiguredType="Property" Path="\Package.Variables[User::v_EmailServer].Properties[Value]" ValueType="String"><ConfiguredValue>smtp.office365.com</ConfiguredValue></Configuration>
+<Configuration ConfiguredType="Property" Path="\Package.Variables[User::v_EmailUserName].Properties[Value]" ValueType="String"><ConfiguredValue>powerbicrmprod@upc.pe</ConfiguredValue></Configuration>
+<Configuration ConfiguredType="Property" Path="\Package.Variables[User::v_FtpFolderPath].Properties[Value]" ValueType="String"><ConfiguredValue></ConfiguredValue></Configuration>
+<Configuration ConfiguredType="Property" Path="\Package.Variables[User::v_LocalFolderPathContactos].Properties[Value]" ValueType="String"><ConfiguredValue>C:\DATOS\PRY_INGLES_WETALK\PRY_INGLES_WETALK\CSV_Contactos</ConfiguredValue></Configuration>
+</DTSConfiguration>
