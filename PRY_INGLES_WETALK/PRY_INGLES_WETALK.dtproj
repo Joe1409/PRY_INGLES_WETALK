@@ -14,8 +14,8 @@
     <Manifest>
       <DTSPackages>
         <DtsPackage FormatVersion="8">
-          <Name>Package.dtsx</Name>
-          <FullPath>Package.dtsx</FullPath>
+          <Name>Package_Ingles_WeTalk.dtsx</Name>
+          <FullPath>Package_Ingles_WeTalk.dtsx</FullPath>
           <References />
         </DtsPackage>
       </DTSPackages>
