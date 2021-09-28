@@ -3,10 +3,10 @@
 <Configuration ConfiguredType="Property" Path="\Package.Connections[Conn_FTP].Properties[ServerPassword]" ValueType="String"><ConfiguredValue>UpcCrm2018$#</ConfiguredValue></Configuration>
 <Configuration ConfiguredType="Property" Path="\Package.Connections[Conn_FTP].Properties[ServerPort]" ValueType="Int32"><ConfiguredValue>21</ConfiguredValue></Configuration>
 <Configuration ConfiguredType="Property" Path="\Package.Connections[Conn_FTP].Properties[ServerUserName]" ValueType="String"><ConfiguredValue>usrftpcrmavaya</ConfiguredValue></Configuration>
-<Configuration ConfiguredType="Property" Path="\Package.Connections[Conn_REPINTETL].Properties[InitialCatalog]" ValueType="String"><ConfiguredValue>ZATDB</ConfiguredValue></Configuration>
-<Configuration ConfiguredType="Property" Path="\Package.Connections[Conn_REPINTETL].Properties[Password]" ValueType="String"><ConfiguredValue>Peru2019</ConfiguredValue></Configuration>
-<Configuration ConfiguredType="Property" Path="\Package.Connections[Conn_REPINTETL].Properties[ServerName]" ValueType="String"><ConfiguredValue>zatserver.database.windows.net</ConfiguredValue></Configuration>
-<Configuration ConfiguredType="Property" Path="\Package.Connections[Conn_REPINTETL].Properties[UserName]" ValueType="String"><ConfiguredValue>zat</ConfiguredValue></Configuration>
+<Configuration ConfiguredType="Property" Path="\Package.Connections[Conn_REPINTETL].Properties[InitialCatalog]" ValueType="String"><ConfiguredValue>REPINTETL</ConfiguredValue></Configuration>
+<Configuration ConfiguredType="Property" Path="\Package.Connections[Conn_REPINTETL].Properties[Password]" ValueType="String"><ConfiguredValue>CRM1ooY020#</ConfiguredValue></Configuration>
+<Configuration ConfiguredType="Property" Path="\Package.Connections[Conn_REPINTETL].Properties[ServerName]" ValueType="String"><ConfiguredValue>172.36.0.23</ConfiguredValue></Configuration>
+<Configuration ConfiguredType="Property" Path="\Package.Connections[Conn_REPINTETL].Properties[UserName]" ValueType="String"><ConfiguredValue>Isintcrmcom</ConfiguredValue></Configuration>
 <Configuration ConfiguredType="Property" Path="\Package.Connections[Log_Package_InglesWeTalk.log].Properties[ConnectionString]" ValueType="String"><ConfiguredValue>C:\DATOS\PRY_INGLES_WETALK\PRY_INGLES_WETALK\Logs\Log_Package_InglesWeTalk.log</ConfiguredValue></Configuration>
 <Configuration ConfiguredType="Property" Path="\Package.Variables[User::v_EmailPassword].Properties[Value]" ValueType="String"><ConfiguredValue>Tgv#6*3=21#.G8xrPC</ConfiguredValue></Configuration>
 <Configuration ConfiguredType="Property" Path="\Package.Variables[User::v_EmailPort].Properties[Value]" ValueType="String"><ConfiguredValue>25</ConfiguredValue></Configuration>
@@ -19,7 +19,9 @@
 <Configuration ConfiguredType="Property" Path="\Package.Variables[User::v_LocalFolderPathOportunidad].Properties[Value]" ValueType="String"><ConfiguredValue>C:\DATOS\PRY_INGLES_WETALK\PRY_INGLES_WETALK\CSV_Oportunidad</ConfiguredValue></Configuration>
 <Configuration ConfiguredType="Property" Path="\Package.Variables[User::v_LocalFolderPathResultados].Properties[Value]" ValueType="String"><ConfiguredValue>C:\DATOS\PRY_INGLES_WETALK\PRY_INGLES_WETALK\CSV_Resultados</ConfiguredValue></Configuration>
 <Configuration ConfiguredType="Property" Path="\Package.Variables[User::v_UrlServicioContacto].Properties[Value]" ValueType="String"><ConfiguredValue>http://crmupccert.upc.edu.pe:80/CRM365/wsRest/api/Contacto</ConfiguredValue></Configuration>
-<Configuration ConfiguredType="Property" Path="\Package.Variables[User::v_UrlServicioHistorialDigital].Properties[Value]" ValueType="String"><ConfiguredValue>https://apicert.upc.edu.pe/v3/crm/HistorialDigital </ConfiguredValue></Configuration>
+<Configuration ConfiguredType="Property" Path="\Package.Variables[User::v_UrlServicioHistorialDigital].Properties[Value]" ValueType="String"><ConfiguredValue>https://apicert.upc.edu.pe/v3/crm/HistorialDigital</ConfiguredValue></Configuration>
 <Configuration ConfiguredType="Property" Path="\Package.Variables[User::v_UrlServicioOportunidad].Properties[Value]" ValueType="String"><ConfiguredValue>https://apicert.upc.edu.pe/v3/crm/Oportunidad</ConfiguredValue></Configuration>
 <Configuration ConfiguredType="Property" Path="\Package.Variables[User::v_UrlServicioBusquedaContacto].Properties[Value]" ValueType="String"><ConfiguredValue>https://apicert.upc.edu.pe/v3/crm/Contacto</ConfiguredValue></Configuration>
+<Configuration ConfiguredType="Property" Path="\Package.Variables[User::v_UrlServicioLoginUsuario].Properties[Value]" ValueType="String"><ConfiguredValue>upc\usrcerapimgmt</ConfiguredValue></Configuration>
+<Configuration ConfiguredType="Property" Path="\Package.Variables[User::v_UrlServicioLoginPassword].Properties[Value]" ValueType="String"><ConfiguredValue>pN8=u@4S#></ConfiguredValue></Configuration>
 </DTSConfiguration>
